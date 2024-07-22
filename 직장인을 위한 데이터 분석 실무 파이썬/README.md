@@ -1,7 +1,7 @@
 # 직장인을 위한 데이터 분석 실무 파이썬
 
 <a href="https://wikibook.co.kr/pwdrev/">
-    <img src="https://wikibook.co.kr/images/cover/s/9791158392284.jpg" width=40%>
+    <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791158392284.jpg" width=40%>
 </a>
 
 ### 목표
